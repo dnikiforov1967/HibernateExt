@@ -1,3 +1,5 @@
-org\hibernate\dialect\Oracle12CustomDialect.class
+org\hibernate\id\OraCustomIdentity$Delegate.class
 org\hibernate\id\Ora12CustomIdentity.class
+org\hibernate\dialect\Oracle12CustomDialect.class
 org\hibernate\id\Ora12CustomIdentity$Delegate.class
+org\hibernate\id\OraCustomIdentity.class
